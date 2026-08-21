@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Qamar Abbas
+# ⚡Hi i'm Qamar Abbas
 ### 🛡️ Cybersecurity & Digital Forensics Learner • 💻 Full-Stack Builder • 🚀 CS Student
 
 <a href="https://git.io/typing-svg">
@@ -28,7 +28,7 @@
 
 ```yaml
 Name: Qamar Abbas
-Education: BS Computer Science (Undergrad)
+Education: BS Computer Science 
 Location: Pakistan 🇵🇰
 Interests & Domains:
   - Cybersecurity, OSINT & Digital Forensics (Autopsy, Wireshark, Kali, Network Labs)
