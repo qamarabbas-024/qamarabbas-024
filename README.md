@@ -4,7 +4,7 @@
 ### 🛡️ Cybersecurity & Network Analyst • 💻 Full-Stack System Architect • 🚀 Creator
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Cybersecurity+%26+Network+Security+Specialist;Building+Textboard+%26+NetVision+Systems;Full-Stack+Architect+(Next.js+14+%E2%80%A2+NestJS+%E2%80%A2+TS);AI+Agents+%26+n8n+Automation+Engineer;Local-First+Data+Privacy+%26+Scalable+Engines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=CS+Student+at+University+of+Gujrat;Cybersecurity+%26+Network+Security+Specialist;Building+Textboard+%26+NetVision+Systems;Full-Stack+Architect+(Next.js+14+%E2%80%A2+NestJS+%E2%80%A2+TS);AI+Agents+%26+n8n+Automation+Engineer" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -13,8 +13,8 @@
   <a href="https://github.com/qamarabbas-024/Textboard">
     <img src="https://img.shields.io/badge/Flagship-Textboard-00FF66?style=for-the-badge&logo=github&logoColor=black" />
   </a>
-  <img src="https://img.shields.io/badge/Degree-BSCS_Student-blue?style=for-the-badge&logo=googleclassroom&logoColor=white" />
-  <img src="https://img.shields.io/badge/Domain-Cybersecurity_%26_Networks-red?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Education-BSCS_@_UOG-blue?style=for-the-badge&logo=googleclassroom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity_%26_Networks-red?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Building_%26_Shipping-cyan?style=for-the-badge" />
 </p>
 
@@ -22,21 +22,17 @@
 
 </div>
 
-## 🖥️ System Terminal Specification
-
-```bash
-qamar@cyberdeck:~$ neofetch --user qamarabbas-024 --target fullstack-security
-```
+## 📌 About Me
 
 ```yaml
-Operator: Qamar Abbas (qamarabbas-024)
+Name: Qamar Abbas
+Bio: CS Student at University of Gujrat with deep passion for Cybersecurity & System Architecture
 Location: Pakistan 🇵🇰
-Education: BSCS (Computer Science)
-Primary Pillars: 
-  - Cybersecurity & Network Intelligence (Nmap, Wireshark, Kali, Network Labs)
+Pillars:
+  - Cybersecurity & Network Intelligence (Kali Linux, Nmap, Wireshark, Network Security Labs)
   - Full-Stack & System Architecture (Next.js 14, NestJS, TypeScript, SQLite WAL, Prisma)
-  - AI Agents & Automation (LLM Orchestration, n8n, Python Pipelines)
-Flagship Systems: Textboard (Local-First Stream Intelligence) & NetVision
+  - AI Agents & Automation (LLM Pipelines, n8n, Python Automation)
+Flagship Projects: Textboard (Local-First Stream Intelligence) & NetVision
 Philosophy: "Performance, Absolute Privacy, and Uncompromising Aesthetics."
 ```
 
@@ -66,21 +62,7 @@ Philosophy: "Performance, Absolute Privacy, and Uncompromising Aesthetics."
 | :--- | :--- | :--- |
 | **⚡ [Textboard](https://github.com/qamarabbas-024/Textboard)** | Local-First Visual Intelligence & Communication Stream Workstation with O(1) Lossless PDF Engine | `Next.js 14` `NestJS` `TypeScript` `SQLite WAL` `Prisma` `Tailwind` |
 | **🌐 NetVision** | Network Security & Packet Intelligence Analytics System with Professional Verification Credentials | `Kali` `Wireshark` `Python` `Next.js` `FastAPI` `Networking` |
-
-</div>
-
----
-
-## 📊 Live Telemetry & GitHub Command Center
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=qamarabbas-024&show_icons=true&theme=tokyonight&hide_border=false&title_color=22c55e&text_color=e2e8f0&icon_color=06b6d4&bg_color=050805" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=qamarabbas-024&theme=tokyonight&hide_border=false&background=050805&stroke=15803d&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" height="165" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qamarabbas-024&layout=compact&theme=tokyonight&hide_border=false&title_color=22c55e&text_color=e2e8f0&bg_color=050805" height="145" />
+| **🍽️ Restaurant-Tracking-Table** | Scalable Table Reservation & Operational Tracking Architecture | `C++` `System Design` `Algorithms` |
 
 </div>
 
