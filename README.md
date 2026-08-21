@@ -4,7 +4,7 @@
 ### 🛡️ Cybersecurity & Digital Forensics Learner • 💻 Full-Stack Builder • 🚀 CS Student
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=680&lines=CS+Student+at+University+of+Gujrat;Exploring+Cybersecurity%2C+OSINT+%26+Digital+Forensics;Building+Textboard+%26+NetVision+Systems;Passionate+about+Data+Science+%26+AI+Automation;Always+Learning%2C+Building+%26+Leveling+Up" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=680&lines=Computer+Science+Student+%26+Software+Builder;Exploring+Cybersecurity%2C+OSINT+%26+Digital+Forensics;Building+Textboard+%26+NetVision+Systems;Passionate+about+Data+Science+%26+AI+Automation;Always+Learning%2C+Building+%26+Leveling+Up" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -16,7 +16,7 @@
   <a href="https://www.credly.com/users/qamar-abbas.85345382" target="_blank">
     <img src="https://img.shields.io/badge/Verified-Credly_Badges-orange?style=for-the-badge&logo=credly&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Education-BSCS_@_UOG-blue?style=for-the-badge&logo=googleclassroom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Education-Computer_Science-blue?style=for-the-badge&logo=googleclassroom&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Learning_%26_Building-cyan?style=for-the-badge" />
 </p>
 
@@ -28,7 +28,7 @@
 
 ```yaml
 Name: Qamar Abbas
-Education: BSCS (Computer Science) @ University of Gujrat
+Education: BS Computer Science (Undergrad)
 Location: Pakistan 🇵🇰
 Interests & Domains:
   - Cybersecurity, OSINT & Digital Forensics (Autopsy, Wireshark, Kali, Network Labs)
