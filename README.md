@@ -1,7 +1,7 @@
 <div align="center">
 
 # ⚡ Hi, I'm Qamar Abbas
-### 🛡️ Cybersecurity & OSINT Specialist • 💻 Full-Stack System Architect • 🚀 CS Researcher
+### 🛡️ Cybersecurity & OSINT Explorer • 💻 Full-Stack System Architect • 🚀 CS Researcher
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=750&lines=Building+TraceMesh%3A+Autonomous+OSINT+%26+3D+Correlation+Engine;Cybersecurity%2C+Digital+Forensics+%26+Threat+Intelligence;Full-Stack+Architect+%E2%80%A2+Next.js+15%2C+NestJS%2C+Three.js%2C+Prisma;Building+High-Performance+Distributed+%26+Local-First+Systems;Always+Learning%2C+Building+%26+Pushing+Boundaries" alt="Typing SVG" />
