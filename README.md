@@ -1,7 +1,7 @@
 <div align="center">
 
 # ⚡ Hi, I'm Qamar Abbas
-### 🛡️ Cybersecurity & OSINT Explorer • 💻 Full-Stack System Architect • 🚀 CS Researcher
+### 🎯 Cybersecurity & OSINT Specialist • 💻 Full-Stack System Architect • 🔬 CS Researcher
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=750&lines=Building+TraceMesh%3A+Autonomous+OSINT+%26+3D+Correlation+Engine;Cybersecurity%2C+Digital+Forensics+%26+Threat+Intelligence;Full-Stack+Architect+%E2%80%A2+Next.js+15%2C+NestJS%2C+Three.js%2C+Prisma;Building+High-Performance+Distributed+%26+Local-First+Systems;Always+Learning%2C+Building+%26+Pushing+Boundaries" alt="Typing SVG" />
@@ -44,31 +44,31 @@ Philosophy: "Relentless curiosity, high-precision engineering, and building load
 
 ---
 
-## 🌟 Featured Flagship Projects & Systems
+## 🚀 Featured Flagship Projects & Systems
 
 <div align="center">
 
 | Project | Description | Core Tech |
 | :--- | :--- | :--- |
-| **🛰️ [TraceMesh](https://github.com/qamarabbas-024/TraceMesh)** | **Autonomous OSINT Aggregation Platform** featuring a Sci-Fi Command HUD, interactive Dual-Mode 3D Globe / 2D Force-Directed Graph, BFS recursive multi-hop reconnaissance, OPSEC PII data redaction, and enterprise STIX 2.1/MISP exporters. | `Next.js 15` `NestJS` `Three.js` `TypeScript` `Prisma` `Tailwind` |
+| **🎯 [TraceMesh](https://github.com/qamarabbas-024/TraceMesh)** | **Autonomous OSINT Aggregation Platform** featuring a Sci-Fi Command HUD, interactive Dual-Mode 3D Globe / 2D Force-Directed Graph, BFS recursive multi-hop reconnaissance, OPSEC PII data redaction, and enterprise STIX 2.1/MISP exporters. | `Next.js 15` `NestJS` `Three.js` `TypeScript` `Prisma` `Tailwind` |
 | **⚡ [Textboard](https://github.com/qamarabbas-024/Textboard)** | **Local-First Visual Intelligence & Communication Workstation** with $O(1)$ lossless streaming PDF engine, SQLite WAL persistence, and real-time collaboration. | `Next.js 14` `NestJS` `TypeScript` `SQLite WAL` `Prisma` |
-| **🌐 NetVision** | **Network Security & Packet Intelligence Analytics System** for deep traffic inspection, protocol auditing, and credential anomaly detection. | `Kali` `Wireshark` `Python` `Next.js` `FastAPI` |
-| **🍽️ Restaurant-Tracking-Table** | **Scalable Table Reservation & Operational Tracking Engine** engineered for low-latency state synchronization and resource allocation. | `C++` `System Design` `Algorithms` |
+| **🌐 [NetVision](https://github.com/qamarabbas-024/netvision)** | **Network Security & Packet Intelligence Analytics System** for deep traffic inspection, protocol auditing, and credential anomaly detection. | `Kali` `Wireshark` `Python` `Next.js` `FastAPI` |
+| **🍽️ [Restaurant-Booking-Table](https://github.com/qamarabbas-024/Restaurant-Booking-Table)** | **Photorealistic 3D Spatial Floor Plan & VIP Dining Engine** engineered with Three.js WebGL and CAD floor geometries. | `Three.js` `WebGL` `JavaScript` `CSS3` |
 
 </div>
 
 ---
 
-## 🚀 Active Focus & Technical Specialization
+## 🔬 Active Focus & Technical Specialization
 
 <div align="center">
 
 | Track | Focus Areas | Tools & Technologies |
 | :--- | :--- | :--- |
-| **🛡️ OSINT & Cyber Threat Intel** | Multi-hop Entity Pivoting, Threat Actor Tracking, Dark Web Recon, CTI Exporters | `Sherlock` `Holehe` `Shodan` `AbuseIPDB` `OTX` `crt.sh` `STIX 2.1` `MISP` |
-| **🔬 Digital Forensics & Defense** | Packet Analysis, Network Traffic Decryption, Disk Forensics, Threat Hunting | `Kali Linux` `Wireshark` `Autopsy` `Nmap` `Bash` |
+| **🎯 OSINT & Cyber Threat Intel** | Multi-hop Entity Pivoting, Threat Actor Tracking, Dark Web Recon, CTI Exporters | `Sherlock` `Holehe` `Shodan` `AbuseIPDB` `OTX` `crt.sh` `STIX 2.1` `MISP` |
+| **🛡️ Digital Forensics & Defense** | Packet Analysis, Network Traffic Decryption, Disk Forensics, Threat Hunting | `Kali Linux` `Wireshark` `Autopsy` `Nmap` `Bash` |
 | **⚡ Full-Stack & 3D Engineering** | Command HUDs, Particle Meshes, Parallel Microservices, Low-Latency WebSockets | `Next.js 15` `React 19` `Three.js` `NestJS` `TypeScript` `TailwindCSS` |
-| **📦 Data Persistence & DevOps** | Relational & Key-Value Stores, Container Sandboxes, Queue Orchestration | `PostgreSQL` `Redis` `SQLite WAL` `Docker` `Prisma ORM` |
+| **🗄️ Data Persistence & DevOps** | Relational & Key-Value Stores, Container Sandboxes, Queue Orchestration | `PostgreSQL` `Redis` `SQLite WAL` `Docker` `Prisma ORM` |
 
 </div>
 
@@ -89,7 +89,7 @@ Philosophy: "Relentless curiosity, high-precision engineering, and building load
 
 ---
 
-## 🏆 Certifications & Verified Credentials
+## 🎖️ Certifications & Verified Credentials
 
 <div align="center">
 
@@ -112,11 +112,11 @@ Philosophy: "Relentless curiosity, high-precision engineering, and building load
 
 ---
 
-## 🤝 Connect & Collaborate
+## 📬 Connect & Collaborate
 
 - 💼 **GitHub**: [@qamarabbas-024](https://github.com/qamarabbas-024)
 - 🚀 **Projects**: [Explore All Repositories](https://github.com/qamarabbas-024?tab=repositories)
-- 🌐 **OSINT Platform**: [TraceMesh](https://github.com/qamarabbas-024/TraceMesh)
+- 🎯 **OSINT Platform**: [TraceMesh](https://github.com/qamarabbas-024/TraceMesh)
 
 ---
 
