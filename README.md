@@ -101,45 +101,13 @@ Philosophy: "Relentless curiosity, high-precision engineering, and building load
 
 ---
 
-## 📈 Qamar Abbas — GitHub Contributions & Activity Metrics
+## 📈 GitHub Activity & Streaks
 
 <div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Engineer-Qamar%20Abbas-00F5FF?style=for-the-badge&logo=github&logoColor=black" />
-  <img src="https://img.shields.io/badge/Activity_Status-Active_Engineering-22C55E?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-### 🟢 Real-Time Contribution Heatmap
-
 <a href="https://github.com/qamarabbas-024">
-  <img src="https://ghchart.rshah.org/00f5ff/qamarabbas-024" alt="Qamar Abbas's GitHub Contributions Calendar Graph" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=qamarabbas-024&theme=tokyonight&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D" alt="Qamar Abbas's GitHub Activity" />
 </a>
-
-<br/><br/>
-
-### 🔥 Contribution Streaks & Performance Metrics
-
-<p align="center">
-  <a href="https://github.com/qamarabbas-024">
-    <img src="https://streak-stats.demolab.com/?user=qamarabbas-024&theme=tokyonight&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D" alt="Qamar Abbas's Streak Stats" />
-  </a>
-  <a href="https://github.com/qamarabbas-024">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qamarabbas-024&theme=tokyonight" alt="Qamar Abbas's Profile Details" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/qamarabbas-024">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qamarabbas-024&theme=tokyonight" alt="Qamar Abbas's Repos per Language" />
-  </a>
-  <a href="https://github.com/qamarabbas-024">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qamarabbas-024&theme=tokyonight" alt="Qamar Abbas's Commits by Language" />
-  </a>
-  <a href="https://github.com/qamarabbas-024">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qamarabbas-024&theme=tokyonight" alt="Qamar Abbas's Overall Stats" />
-  </a>
-</p>
 
 </div>
 
